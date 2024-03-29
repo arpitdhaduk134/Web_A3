@@ -1,4 +1,6 @@
-﻿public class Comment
+﻿using System;
+
+public class Comment
 {
     public int Id { get; set; }
     public int ProductId { get; set; } 
